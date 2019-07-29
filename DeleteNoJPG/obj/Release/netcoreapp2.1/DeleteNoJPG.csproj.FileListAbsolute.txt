@@ -1,0 +1,11 @@
+C:\DEV\DeleteNoJPG\DeleteNoJPG\bin\Release\netcoreapp2.1\DeleteNoJPG.deps.json
+C:\DEV\DeleteNoJPG\DeleteNoJPG\bin\Release\netcoreapp2.1\DeleteNoJPG.runtimeconfig.json
+C:\DEV\DeleteNoJPG\DeleteNoJPG\bin\Release\netcoreapp2.1\DeleteNoJPG.runtimeconfig.dev.json
+C:\DEV\DeleteNoJPG\DeleteNoJPG\bin\Release\netcoreapp2.1\DeleteNoJPG.dll
+C:\DEV\DeleteNoJPG\DeleteNoJPG\bin\Release\netcoreapp2.1\DeleteNoJPG.pdb
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.csproj.CoreCompileInputs.cache
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.AssemblyInfoInputs.cache
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.AssemblyInfo.cs
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.dll
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.pdb
+C:\DEV\DeleteNoJPG\DeleteNoJPG\obj\Release\netcoreapp2.1\DeleteNoJPG.csprojAssemblyReference.cache
