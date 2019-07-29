@@ -48,10 +48,9 @@ namespace DeleteNoJPG
                     //jpg 파일 클리어
                     if (subfiles.Length != 0)
                     {
-                        bool isjpg = true;
-
                         foreach (FileInfo fi in subfiles)//검색한 파일들의 풀네임을 하나씩 대입시킴.
                         {
+                            bool isjpg = true;
                             searchedFileHeaderByte = File.ReadAllBytes(fi.FullName);//찾은 파일의 바이너리를 바이트 스트림으로 추출
 
                             if (jpgHeaderByte.Length>=searchedFileHeaderByte.Length)
